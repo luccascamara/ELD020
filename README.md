@@ -1,0 +1,1 @@
+Projetos desenvolvidos na disciplina ELD030 – Sistemas Digitais II, do curso de Engenharia de Robôs no Centro Universitário FEI. Nessa disciplina, realizamos projetos no Quartus Prime 16.1 com linguagem VHDL
