@@ -1,0 +1,117 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "BPR",
+					"strict" : false
+				},
+				{
+					"name" : "BP",
+					"strict" : false
+				},
+				{
+					"name" : "VDP",
+					"strict" : false
+				},
+				{
+					"name" : "LD[5]",
+					"strict" : false
+				},
+				{
+					"name" : "LD[4]",
+					"strict" : false
+				},
+				{
+					"name" : "LD[3]",
+					"strict" : false
+				},
+				{
+					"name" : "LD[2]",
+					"strict" : false
+				},
+				{
+					"name" : "LD[1]",
+					"strict" : false
+				},
+				{
+					"name" : "LD[0]",
+					"strict" : false
+				},
+				{
+					"name" : "TVA[3]",
+					"strict" : false
+				},
+				{
+					"name" : "TVA[2]",
+					"strict" : false
+				},
+				{
+					"name" : "TVA[1]",
+					"strict" : false
+				},
+				{
+					"name" : "TVA[0]",
+					"strict" : false
+				},
+				{
+					"name" : "TVB[3]",
+					"strict" : false
+				},
+				{
+					"name" : "TVB[2]",
+					"strict" : false
+				},
+				{
+					"name" : "TVB[1]",
+					"strict" : false
+				},
+				{
+					"name" : "TVB[0]",
+					"strict" : false
+				},
+				{
+					"name" : "TVP[3]",
+					"strict" : false
+				},
+				{
+					"name" : "TVP[2]",
+					"strict" : false
+				},
+				{
+					"name" : "TVP[1]",
+					"strict" : false
+				},
+				{
+					"name" : "TVP[0]",
+					"strict" : false
+				},
+				{
+					"name" : "SF",
+					"strict" : false
+				},
+				{
+					"name" : "CK",
+					"strict" : false
+				},
+				{
+					"name" : "INI",
+					"strict" : false
+				},
+				{
+					"name" : "CK_EN",
+					"strict" : false
+				},
+				{
+					"name" : "KEY1",
+					"strict" : false
+				},
+				{
+					"name" : "ST",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
