@@ -1,0 +1,100 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Alunos/Projeto1/simulation/qsim
+Efsm
+Z1 w1759340947
+Z2 DPx11 fiftyfivenm 21 fiftyfivenm_atom_pack 0 22 1Dk;4?@modA7lIE5F<?`>0
+Z3 DPx11 fiftyfivenm 22 fiftyfivenm_components 0 22 ^iWWaY5ekCN518OG[C9=X0
+Z4 DPx4 ieee 16 vital_primitives 0 22 G>kiXP8Q9dRClKfK1Zn7j1
+Z5 DPx6 altera 11 dffeas_pack 0 22 zWCf]NF6heG=Dhmc@B0=T2
+Z6 DPx4 ieee 12 vital_timing 0 22 J>EBealN09f8GzldA[z2>3
+Z7 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z8 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z9 DPx6 altera 28 altera_primitives_components 0 22 _Q9E2TD5YB<<@P0[5jYTG0
+R0
+Z10 8FSM.vho
+Z11 FFSM.vho
+l0
+L37
+VC`]6[1Qn]bOa^d]OO5Vgz0
+!s100 aPMN]zi[j?Xg2Y?A`Bzo[0
+Z12 OV;C;10.5b;63
+32
+Z13 !s110 1759340948
+!i10b 1
+Z14 !s108 1759340948.000000
+Z15 !s90 -work|work|FSM.vho|
+Z16 !s107 FSM.vho|
+!i113 1
+Z17 o-work work
+Z18 tExplicit 1 CvgOpt 0
+Astructure
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R9
+DEx4 work 3 fsm 0 22 C`]6[1Qn]bOa^d]OO5Vgz0
+l189
+L54
+VO^0@JaLUak<Q1LJ72UCG23
+!s100 kJXb]=NF>B>?XTCSB[DB=3
+R12
+32
+R13
+!i10b 1
+R14
+R15
+R16
+!i113 1
+R17
+R18
+Efsm_vhd_vec_tst
+Z19 w1759340945
+R7
+R8
+R0
+Z20 8Waveform.vwf.vht
+Z21 FWaveform.vwf.vht
+l0
+L32
+V_[d8XjLoWT4SG9bHCd@U^2
+!s100 iBeHTndn3mDZ[EV@OGmo<1
+R12
+32
+Z22 !s110 1759340949
+!i10b 1
+R14
+Z23 !s90 -work|work|Waveform.vwf.vht|
+Z24 !s107 Waveform.vwf.vht|
+!i113 1
+R17
+R18
+Afsm_arch
+R7
+R8
+Z25 DEx4 work 15 fsm_vhd_vec_tst 0 22 _[d8XjLoWT4SG9bHCd@U^2
+l65
+L34
+Z26 V6F<]kS[D@R5EE<z]Q[3cG3
+Z27 !s100 JR3ilO9kG0[XR;U05j11]3
+R12
+32
+R22
+!i10b 1
+R14
+R23
+R24
+!i113 1
+R17
+R18

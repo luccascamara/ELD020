@@ -1,0 +1,10 @@
+
+State Machine - |FSM|E
+Name E.FALHA E.TVP_I E.TAB E.TVB_I E.TAA_I E.TVA_I E.INICIO 
+E.INICIO 0 0 0 0 0 0 0 
+E.TVA_I 0 0 0 0 0 1 1 
+E.TAA_I 0 0 0 0 1 0 1 
+E.TVB_I 0 0 0 1 0 0 1 
+E.TAB 0 0 1 0 0 0 1 
+E.TVP_I 0 1 0 0 0 0 1 
+E.FALHA 1 0 0 0 0 0 1 
